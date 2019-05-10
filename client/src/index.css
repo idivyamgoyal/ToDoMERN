@@ -1,0 +1,5 @@
+
+/* Used for striking-off completed tasks */
+.completed{
+    text-decoration: line-through;
+}
